@@ -23,15 +23,15 @@ I then analyzed the data using the bibliometrix package in Rstudio (Aria and Cuc
 
 ## Results
 
-This section discusses briefly  the differences between the two fields, building on the the summarized datasets named "SmLegData" and "SmAgr".
+This section discusses briefly the differences between the two fields, building on the summarized datasets named "SmLegData" and "SmAgr".
 
-The two datasets differs in time span, considerign that the Agriculture/Farming center one (from now on "AGR), spans from 1961 2023, while the first article in the legal dataset (LEG), dates 1996. However,in the LEG field, the scientificy production is steadily increasing, with an anual growth rate of 4.68%.
+The two datasets differ in time span, considering that the Agriculture/Farming Center one (from now on "AGR), spans from 1961 to 2023, while the first article in the legal dataset (LEG), dates 1996. However, in the LEG field, scientific production is steadily increasing, with an annual growth rate of 4.68%.
 
-I found particulary interesting the comparisong between the author's keyword choices of the two datasets, which provides insights on the key points of the respective fields. Besides the obvious geographical similarities between the two, reflected by keywords such as "Aral Sea" and "Central Asia", it intesting that both datasets, despite the fairly dinstinctive of water security and management, with the keyword "irrigation", being among the most cited in both datasets. The AGR datasets enphatizes the growning importnace of "climate change", among it keyword, toghether with the "adaptation" theme. On the same line, the LEG dataset is focused on the major related to the enviromental problem such as "regional cooperation" and "enviromental safety". 
+I found particularly interesting the comparison between the author's keyword choices of the two datasets, which provides insights into the key points of the respective fields. Besides the obvious geographical similarities between the two, reflected by keywords such as "Aral Sea" and "Central Asia", it is interesting that both datasets, despite the fairly distinct of water security and management, with the keyword "irrigation", being among the most cited in both datasets. The AGR datasets emphasize the growing importance of "climate change", among its keywords, together with the "adaptation" theme. On the same line, the LEG dataset is focused on the major related to the environmental problem such as "regional cooperation" and "environmental safety". 
 
 ## Conclusions
 
-Many more analysis can be performed with these two datasets. Indeed, in-depth analysis of the AGR dataset reveals a prevalence  of quantitative studies, while the LEG dataset is mostly populated by doctrinal-instutitional analysis of the current legal framework, with little empirical information.
+Many more analyses can be performed with these two datasets. Indeed, an in-depth analysis of the AGR dataset reveals a prevalence of quantitative studies, while the LEG dataset is mostly populated by doctrinal institutional analysis of the current legal framework, with little empirical information.
 
 
 
